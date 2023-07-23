@@ -1,0 +1,145 @@
+/* background colors */
+.primary-background{
+    background-color: #EC3B3B !important;
+}
+
+.accent-background{
+    background-color: #ee5050 !important;
+}
+
+/* colors */
+.co-white{
+    color: white;
+}
+
+.primary-co{
+    color: #EC3B3B;
+}
+
+/* font style */
+.font-600{
+    font-weight: 600;
+}
+
+.font-500{
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+}
+
+.font-400{
+    font-weight: 600;
+    font-size: medium;
+}
+
+.header-res{
+    font-weight: 700;
+    padding-bottom: 15px;
+}
+
+.label-res{
+    font-size: smaller;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.checkbox-font{
+    font-size: smaller;
+    margin: 0px;
+    margin-top: 1px;
+}
+
+/* navbar */
+.navbar-padding {
+    padding-left: 50px; /* Add your desired left padding */
+    padding-right: 50px; /* Add your desired right padding */
+}
+
+.nav-btn{
+    background-color: #EC3B3B;
+    border: 2px white solid;
+    border-radius: 25px;
+    padding: 3px 10px 3px 10px !important;
+    font-size: small;
+    font-weight: 700;
+    color: white;
+}
+
+.link-space{
+    padding-right: 50px !important;
+}
+
+.padding-second{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.nav-link:hover{
+    color: white !important;
+    background-color: #EC3B3B !important;
+}
+
+.bord{
+    border-right: white 1px solid;
+}
+
+/* parralex */
+.cus-card{
+    background-color: white;
+    padding: 30px 70px 30px 70px!important;
+    border-radius: 0px; /* maybe change */
+    width: 1000px;
+}
+
+.checkbox-res{
+    margin-top: 15px;
+}
+
+.label-res {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  .required-field-text {
+    color: #aaa;
+    font-size: 12px;
+    margin-left: 5px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-style: italic;
+  }
+
+  .small-text {
+    font-size: 16px;
+    margin-left: 10px;
+    padding: 0 !important;
+    margin-right: 8px !important;
+  }
+  
+  .title {
+    margin-right: 3px;
+  }
+
+  .m-title{
+    margin-bottom: 10px;
+  }
+
+  .input-box{
+    border-radius: 0;
+    font-size: larger;
+    border-color: #303030;
+  }
+
+  .tick-box{
+    border-radius: 0 !important;
+    border-color: #303030;
+  }
+
+  .tick-box:hover{
+    background-color: #303030;
+    box-shadow:inset 0px 0px 0px 1px white;
+  }
+  
+  
